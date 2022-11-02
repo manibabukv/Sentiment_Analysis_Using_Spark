@@ -3,9 +3,9 @@ In this assignment, you will perform a rudimentary sentiment analysis on movie r
 
 Example:
 
-1.Positive words: happy, joy, excited, elated
-2.Negative words: sad, bad, unhappy, pity
-3.Sample Review: I was excited to see this movie. Although the movie had a sad story but had a happy ending
-4.Positive score: 2 (excited, happy)
-5.Negative score: 1 (sad)
-6.Final sentiment: positive
+1.  Positive words: happy, joy, excited, elated
+2.  Negative words: sad, bad, unhappy, pity
+3.  Sample Review: I was excited to see this movie. Although the movie had a sad story but had a happy ending
+4.  Positive score: 2 (excited, happy)
+5.  Negative score: 1 (sad)
+6.  Final sentiment: positive
